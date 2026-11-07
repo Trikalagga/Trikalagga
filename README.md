@@ -23,7 +23,7 @@ I'm a Full Stack Web Developer interested in building responsive and user-friend
 
 ### 🚀 Featured Project
 
-**[Postaway – Social Media Application](https://github.com/Trikalagga/Postaway)**
+**Postaway – Social Media Application**
 
 A full-stack social media application built using the MERN stack.
 
@@ -35,11 +35,12 @@ A full-stack social media application built using the MERN stack.
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
+[Live Demo](https://postaway-frontend.onrender.com/) | [GitHub Repository](https://github.com/Trikalagga/Postaway)
 
 ### 🎓 Education
 
-- **MSc (Data Science)** – CHRIST (Deemed to be University), Lavasa, Pune Campus.
-- **BSc (Mathematics)** – Central University of Odisha.
+- **MSc (Data Science)** – CHRIST (Deemed to be University), Pune Lavasa Campus (2025).
+- **BSc (Mathematics)** – Central University of Odisha (2023).
 
 ### 🤝 Connect With Me
 
